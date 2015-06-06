@@ -1,14 +1,16 @@
 # Site settings
-title: Your awesome title
-tagline: And Tagline
-email: gayanvirajith@gmail.com
+title: Rafael R. Nunes
+tagline: Desenvolvimento e tecnologias
+email: programmer.rrn@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Hi, I’m a professional UI/UX designrer and web developer. 
-  I love being minimal and creative.
-baseurl: "/gaya" # the subpath of your site, e.g. /blog/
-url: "http://gayan.me" # the base hostname & protocol for your site
+  Desenvolvedor com mais de 3 anos de experiência profissional. 
+  Interessado em todos os tipos de desenvolvimento, desktop, web e mobile.
+  Criei este canal para compartilhar minhas experiência.
+baseurl: "/blog" # the subpath of your site, e.g. /blog/
+url: http://localhost:4000
+#url: "http://rafaelnunes.me" # the base hostname & protocol for your site
 logourl: /assets/images/logo.png # Site logo
-author: "Tom Warlker"
+author: "Rafael R. Nunes"
 author_thumbnail: "/assets/images/avatar.jpg" # Author avatar
 # Theme customization - please change from the defaults!
 theme:
@@ -16,12 +18,12 @@ theme:
   highlight_color: "#205081" #205081" # "#272935"
   # Social media links, leave blank to ignore
   social: 
-    github: gayanvirajith
-    twitter: gayanvirajith
-    facebook: gayanvirajith
-    gplus: +gayanvirajith
+    github: RafaelRNunes
+    #twitter: gayanvirajith
+    facebook: RRNProgrammer
+    #gplus: +gayanvirajith
     # dribble: gayanvirajith
-    pinterest: gayanvirajith
+    #pinterest: gayanvirajith
 
   # Enable share buttons on post footer
   show_share_buttons: true
