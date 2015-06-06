@@ -1,12 +1,12 @@
 ---
 layout: page
-title: About me
-permalink: /about/
+title: Sobre
+permalink: /sobre/
 banner_image: sample-banner-image-2.jpg
 banner_image_alt: About me
 ---
 
-Hi, I am Tom Warlker. I am a professional UI/UX designrer and web developer. I love being minimal and creative.
+Desenvolvedor com mais 3 anos de experiência profissional. Interessado em todos os tipos de desenvolvimento, desktop, web e mobile. Meu foco no momento é back-end mas também tenho habilidades em front-end. Proativo, colaborativo, autodidata, gosto de aprender novas tecnologias, trabalho em projetos open source.
 
 I prefer to serve with Php and Ruby based stacks and also love to work 
 on [Jekyll][jekyll] and [Processwire CMS/CMF][pw].
