@@ -5,17 +5,17 @@ email: programmer.rrn@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Desenvolvedor com mais de 3 anos de experiência profissional. 
   Interessado em todos os tipos de desenvolvimento, desktop, web e mobile.
-  Criei este canal para compartilhar minhas experiência.
+  Criei este canal para compartilhar minha experiência.
 baseurl: "/blog" # the subpath of your site, e.g. /blog/
-#url: http://localhost:4000
-url: "http://rafaelnunes.me" # the base hostname & protocol for your site
-logourl: /assets/images/logo.png # Site logo
-author: "Rafael R. Nunes"
+url: http://localhost:4000
+#url: "http://rafaelnunes.me" # the base hostname & protocol for your site
+#logourl: /assets/images/logo.png # Site logo
+author: "RRN"
 author_thumbnail: "/assets/images/avatar.jpg" # Author avatar
 # Theme customization - please change from the defaults!
 theme:
   # Color for sidebar bar, links, etc
-  highlight_color: "#205081" #205081" # "#272935"
+  highlight_color: "#2c3e50" #205081" # "#272935"
   # Social media links, leave blank to ignore
   social: 
     github: RafaelRNunes
