@@ -83,7 +83,7 @@ Agora vamos de fato enviar nossas modificações para repositório remoto.
 <code>git push origin master</code>
 </pre>
 
-Após o comando anterior o Git lhe pedirá uma senha, a mesma que cadastrou no repositório remoto, digitado a senha precione enter. 
+Após o comando anterior o Git lhe pedirá uma senha, a mesma que cadastrou no repositório remoto, digitado a senha pressione enter. 
 
 Agora você já pode verificar no seu repositório remoto o código fonte versionado. Mágico neh! rsrs.
 
