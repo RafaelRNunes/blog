@@ -4,6 +4,7 @@ title: "Git primeiros passos. #1"
 category: 
 - git
 - guia
+banner_image: posts/banner_git_primeiros_passos_1.jpg
 permalink: git-primeiros-passos
 meta_description: 'Git primeiros passos #1'
 browser_title: 'Git primeiros passos #1'
