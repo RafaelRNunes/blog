@@ -1,11 +1,10 @@
 ---
 layout: post
 title: "Git primeiros passos. #1"
-category: 
-- git
-- guia
+categories: Git Guia
 banner_image: posts/banner_git_primeiros_passos_1.jpg
-permalink: /blog/git-primeiros-passos
+comments: true
+share: true
 meta_description: 'Git primeiros passos #1'
 browser_title: 'Git primeiros passos #1'
 ---
