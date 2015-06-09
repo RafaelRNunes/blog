@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Git primeiros passos. #1"
-categories: Git Guia
+categories: Git Tutorial
 banner_image: posts/banner_git_primeiros_passos_1.jpg
 comments: true
 share: true
